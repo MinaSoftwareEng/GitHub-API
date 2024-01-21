@@ -4,4 +4,4 @@ Create a GitHub-API
 
 ## Live Demo
 
-[Demo Link](https://raw.githack.com/Takhmina175/Birthday-Card/main/index.html)
+[Demo Link](https://raw.githack.com/MinaSoftwareEng/GitHub-API/main/index.html)
